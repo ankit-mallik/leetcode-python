@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankit-mallik/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/ankit-mallik/leetcode-python/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/ankit-mallik/leetcode-python/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankit-mallik/leetcode-python/tree/master/0141-linked-list-cycle) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ankit-mallik/leetcode-python/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ankit-mallik/leetcode-python/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
