@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankit-mallik/leetcode-python/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/ankit-mallik/leetcode-python/tree/master/0217-contains-duplicate) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankit-mallik/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankit-mallik/leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/ankit-mallik/leetcode-python/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/ankit-mallik/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/ankit-mallik/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1929-concatenation-of-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankit-mallik/leetcode-python/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/ankit-mallik/leetcode-python/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
