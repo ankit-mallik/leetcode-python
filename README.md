@@ -37,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ankit-mallik/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1929-concatenation-of-array) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankit-mallik/leetcode-python/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ankit-mallik/leetcode-python/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankit-mallik/leetcode-python/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankit-mallik/leetcode-python/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ankit-mallik/leetcode-python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankit-mallik/leetcode-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit-mallik/leetcode-python/tree/master/0242-valid-anagram) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankit-mallik/leetcode-python/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Stack
 |  |
 | ------- |
@@ -81,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ankit-mallik/leetcode-python/tree/master/0242-valid-anagram) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankit-mallik/leetcode-python/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
