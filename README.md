@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ankit-mallik/leetcode-python/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ankit-mallik/leetcode-python/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ankit-mallik/leetcode-python/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ankit-mallik/leetcode-python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1929-concatenation-of-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/ankit-mallik/leetcode-python/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ankit-mallik/leetcode-python/tree/master/0094-binary-tree-inorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/ankit-mallik/leetcode-python/tree/master/1441-build-an-array-with-stack-operations) |
 ## Tree
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/ankit-mallik/leetcode-python/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/ankit-mallik/leetcode-python/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
